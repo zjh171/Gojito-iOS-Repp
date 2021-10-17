@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "GJTControlsKit"
-  s.version = "0.1.0"
+  s.version = "0.0.8"
   s.summary = "Gojito \u7684\u63A7\u4EF6\u8F85\u52A9\u7C7B"
   s.license = "MIT"
   s.authors = {""=>""}
