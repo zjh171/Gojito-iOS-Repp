@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+GJTAdditionKit in Pods, no dependencies
+GJTControlsKit in Pods, depends on:
+GJTAdditionKit in Pods (explicit)
+Pods-packager in Pods, depends on:
+GJTAdditionKit in Pods (explicit)
+GJTControlsKit in Pods (explicit)
