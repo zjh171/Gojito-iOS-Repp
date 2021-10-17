@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source = { :git => "https://github.com/zjh171/GJTControlsKit", :tag => "#{s.version}" }
 
-  s.deployment_target    = '9.0'
-  s.vendored_framework   = 'GJTControlsKit.framework'
+  s.ios.deployment_target    = '9.0'
+  s.ios.vendored_frameworks   = 'GJTControlsKit.framework'
 end
